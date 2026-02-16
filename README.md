@@ -20,7 +20,7 @@ Designed to demonstrate low-level memory management, binary data persistence, an
 * **Visualization Dashboard:** Generates a 4-panel Matplotlib dashboard showing score distribution, historical trends, and player performance.
 
 ### 4. Quality Assurance
-* **Unit Testing:** Comprehensive test suite (`test_obsluga_gry.c`) covering 100% of betting logic (Straight Up, Corners, Columns, Colors) ensuring regression stability.
+* **Unit Testing:** Comprehensive test suite (`test_game_logic.c`) covering 100% of betting logic (Straight Up, Corners, Columns, Colors) ensuring regression stability.
 * **Input Sanitization:** Robust handling of `stdin` to prevent buffer overflows and segmentation faults.
 
 ---
